@@ -1,0 +1,84 @@
+{
+    "English": {
+        "message": {
+            "maximumValidationUserName": "UserName Address Length Exceed",
+            "alowalaphabets": "Allow only Alphabets",
+            "alownumbers": "Allow only Numbers",
+            "minLength": "Minimum Length should be",
+            "maxLength": "Maximum Length should be",
+            "required": "Required",
+            "invalid":"Invalid",
+            "emailValidation": "Email Address is not valid",
+            "maximumValidationEmail": "Email Address Length Exceed",
+            "loginSuccess": "Login Successfully",
+            "maximumValidationPassword": "Password Length Exceed",
+            "specialCharacterErrorMessage": "Special Characters are not allowed",
+            "alphaAndSpaceOnlyErrorMessage": "alphabets and spaces only",
+            "letsGoLogin": "Go to Login",
+            "errorCode505": "505",
+            "errorCode404": "404",
+            "whoops": "Whoops!",
+            "errorConfessionMsg": "Something went wrong on our end,",
+            "couldNotFoundPage": " We couldn't find this page.",
+            "errorConfessionMsg2": " we've alerted our engineers to see what happened.",
+            "newVersionAvailable": "A new version of Zoi App is available",
+            "clickLatestVersion": "Click on 'Update' or open in a new tab to get the Latest version",
+            "checkBoxNotSelectMsg":"You need to select atleast one item",
+            "userReActiveMsg":"User Activated Successfully"
+        },
+        "controls": {
+            "Username": "Username",
+            "email": "Email / Username",
+            "emailAddress": "Email Address",
+            "password": "Password",
+            "login": "Login",
+            "later": "Later",
+            "update": "Update",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "createAccount": "Create Account",
+            "rememberMe": "Remember Me",
+            "signIn": "Sign In",
+            "signUp": "Sign Up",
+            "submit": "Submit",
+            "newPassword":"New Password",
+            "confirmPassword":"Confirm Password",
+            "fullname": "Fullname"
+        },
+        "login": {
+            "forgetYourPassword":"Forget Your Password",
+            "features":"Register with your Personal details to use all of site features",
+            "HelloFriend":"Hello Friend",
+            "welcome": "Hi, Welcome Back !!!",
+            "signinText": "Sign in to X",
+            "newUser": "New User?",
+            "createAccount": "Create an account",
+            "getStarted": "Get started absolutely free",
+            "alreadyHaveAnAccount": "Already have an account?",
+            "signIn": "Sign In",
+            "login": "Login",
+            "resetPassword": "Reset Password",
+            "createAccountButton": "Create Account",
+            "backgroundImage": "https://minimals.cc/assets/background/overlay_2.jpg"
+        },
+        "path": {
+            "loginpage":"/",
+            "sample": "/sample",
+           "forgetPassword":"/forgetPassword",
+            "navbar": "/navbar",          
+            "signup": "/signup",
+            "tasksummary": "/tasksummary",
+            "newtask": "/newtask",
+            "organization": "/orgs",
+            "addOrganization": "/addorgs",
+            "task": "/task",
+            "notFound": "/404",
+            "pageNotFound": "/505"
+
+        },
+        "token": {
+            "secretToken": "place your secret key here",
+            "authToken": "L]ak;YzY!47FqLUbhcC:4b8Zaw"
+        }
+    }
+}
